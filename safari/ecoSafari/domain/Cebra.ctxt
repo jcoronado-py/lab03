@@ -1,0 +1,16 @@
+#BlueJ class context
+#Tue Sep 22 18:57:23 COT 2026
+comment0.target=Cebra
+comment1.params=habitat row column
+comment1.target=Cebra(EcoSafari, int, int)
+comment10.params=fila columna
+comment10.target=vecinosTierra(int, int)
+comment2.target=EcoSafari getHabitat()
+comment3.target=java.awt.Color getColor()
+comment4.target=int shape()
+comment5.target=void tic()
+comment6.target=void tac()
+comment7.target=void moverUnaCelda()
+comment8.target=void comer()
+comment9.target=void reproducir()
+numComments=11
