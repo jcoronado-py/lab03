@@ -29,6 +29,15 @@ public class EcoSafari{
         //Ciclo 3
         //Storm thor = new Storm(this, 0, 0);
         //Storm tempest = new Storm(this, 5, 0);
+        
+        //Ciclo 4
+        //babyElephant Coronado = new babyElephant(this, 0, 0);
+        //babyElephant Horta = new babyElephant(this, 5, 0);
+        
+        //Ciclo 5
+        //Roca Coronado = new Roca(this, 0, 0);
+        //Roca Horta = new Roca(this, 5, 0);
+     
      
         // Zona 1: cebra + leon
         Tierra t1 = new Tierra(this, 10, 10);
@@ -40,9 +49,9 @@ public class EcoSafari{
         Tierra t7 = new Tierra(this, 12, 11);
         Tierra t8 = new Tierra(this, 12, 12);
      
-        Pasto pasto1 = new Pasto(this, 9, 10);
-        Cebra cebra1 = new Cebra(this, 11, 11);
-        Leon leon1 = new Leon(this, 13, 11);
+        //Pasto pasto1 = new Pasto(this, 9, 10);
+        //Cebra cebra1 = new Cebra(this, 11, 11);
+        //Leon leon1 = new Leon(this, 13, 11);
      
         // Zona 2: otra pareja cebra + leon
         Tierra t9 = new Tierra(this, 15, 15);

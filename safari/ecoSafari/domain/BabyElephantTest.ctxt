@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Sep 27 19:32:26 COT 2026
+comment0.target=BabyElephantTest
+comment1.target=void setUp()
+comment2.target=void testUbicacionInicial()
+comment3.target=void testFormaYColorInicial()
+comment4.target=void testTicMueveYConsumeEnergia()
+numComments=5

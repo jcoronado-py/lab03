@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Sep 27 19:32:26 COT 2026
+comment0.target=RocaTest
+comment1.target=void setUp()
+comment2.target=void testUbicacionInicial()
+comment3.target=void testFormaYColor()
+comment4.target=void testTicNoMueveLaRoca()
+numComments=5

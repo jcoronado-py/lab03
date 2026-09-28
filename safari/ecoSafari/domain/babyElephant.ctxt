@@ -1,8 +1,9 @@
 #BlueJ class context
 #Sun Sep 27 19:32:26 COT 2026
-comment0.target=Elephant
+comment0.target=babyElephant
+comment0.text=\n Otro tipo de elefante\: se mueve en un radio mayor pero consume\n menos energ\u00EDa por movimiento, y usa una paleta de color distinta.\n
 comment1.params=habitat row column
-comment1.target=Elephant(EcoSafari, int, int)
+comment1.target=babyElephant(EcoSafari, int, int)
 comment2.target=EcoSafari getHabitat()
 comment3.target=java.awt.Color getColor()
 comment4.target=int shape()
